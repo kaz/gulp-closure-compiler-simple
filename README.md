@@ -1,5 +1,7 @@
 # gulp-closure-compiler-simple
 
+[![NPM](https://nodei.co/npm/gulp-closure-compiler-simple.png)](https://nodei.co/npm/gulp-closure-compiler-simple/)
+
 ## Usage
 
 ```javascript
