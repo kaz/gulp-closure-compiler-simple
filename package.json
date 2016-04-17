@@ -1,0 +1,23 @@
+{
+  "name": "gulp-closure-compiler-simple",
+  "version": "1.0.0",
+  "description": "Gulp plugin to minify javascript with closure-compiler",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazsw/gulp-closure-compiler-simple.git"
+  },
+  "author": "Kazuki Sawada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kazsw/gulp-closure-compiler-simple/issues"
+  },
+  "homepage": "https://github.com/kazsw/gulp-closure-compiler-simple#readme",
+  "dependencies": {
+    "closure-compiler": "*",
+    "through2": "*"
+  },
+  "optionalDependencies": {
+    "google-closure-compiler": "*"
+  }
+}
